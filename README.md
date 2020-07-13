@@ -1,1 +1,1 @@
-# codeigniter-login
+# codeigniter-registration
